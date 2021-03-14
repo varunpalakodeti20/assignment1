@@ -1,1 +1,24 @@
 # assignment1
+1)range_of_prime
+2)strong
+3)range_strong
+4)fib
+5)fibonacci
+6)rev_num
+7)gcd
+8)primepal
+9)range_armstrong
+10)b2d
+11)d2b
+12)o2d
+13)d2o
+14)d2h
+15)diamond
+16)Mpattern
+17)tri_num
+18)str_palindrome
+19)revstr
+20)countEachChar
+21)countChar
+22)each_char
+23)rsen
